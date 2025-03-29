@@ -1,3 +1,8 @@
+title: Merlot theme
+description: Merlot is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-merlot
 # О себе
 
 Привет! Меня зовут Никита и я ученик Нетологии.
@@ -11,8 +16,3 @@
 
 ![фото](фото.jpg)
 
-title: Merlot theme
-description: Merlot is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-merlot
