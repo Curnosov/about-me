@@ -10,3 +10,5 @@
 # Мое реальное фото
 
 ![фото](фото.jpg)
+
+theme: jekyll-theme-merlot
